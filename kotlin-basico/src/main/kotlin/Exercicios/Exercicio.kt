@@ -10,4 +10,6 @@ fun main(){
     println(pibBrasil)
     var qtdPupulacaoBrasil: Int = 211000000
     println(qtdPupulacaoBrasil)
+
+    println("PIB per capita: ${pibBrasil/qtdPupulacaoBrasil}")
 }
