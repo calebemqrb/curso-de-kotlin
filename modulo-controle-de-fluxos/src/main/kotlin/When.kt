@@ -1,5 +1,3 @@
-package Exercicios
-
 fun bonusWhen(jobTitle: String): String{
 
     return when(jobTitle.lowercase()){
